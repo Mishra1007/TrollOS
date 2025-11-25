@@ -102,8 +102,6 @@ Scroll logs with mouse / wheel
 
 🖼️ Screenshots
 
-Add your screenshot here:
-
 assets/screenshot.png
 
 
