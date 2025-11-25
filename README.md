@@ -1,11 +1,9 @@
 🟩 TrollOS – AI Terminal Troll Engine
-A realistic hacker-style terminal OS that roasts your commands using a local AI model (Llama3).
+A realistic terminal OS that roasts your commands using a local AI model (Llama3).
 
 Built with Python, Textual TUI, and Ollama.
 
 🚀 Features
-
-✔ Realistic hacker terminal UI
 
 ✔ Live system stats panel
 
