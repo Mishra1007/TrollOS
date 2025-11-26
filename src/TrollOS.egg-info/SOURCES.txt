@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+TrollOS/__init__.py
+TrollOS/app.py
+TrollOS.egg-info/PKG-INFO
+TrollOS.egg-info/SOURCES.txt
+TrollOS.egg-info/dependency_links.txt
+TrollOS.egg-info/entry_points.txt
+TrollOS.egg-info/requires.txt
+TrollOS.egg-info/top_level.txt

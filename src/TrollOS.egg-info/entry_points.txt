@@ -1,0 +1,2 @@
+[console_scripts]
+trollos = trollos.app:TrollChat
