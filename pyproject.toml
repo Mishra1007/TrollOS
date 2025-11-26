@@ -22,7 +22,13 @@ dependencies = [
 [project.urls]
 Homepage = "https://github.com/Mishra1007/TrollOS"
 Source = "https://github.com/Mishra1007/TrollOS"
-Tracker = "https://github.com/Mishra1007/TrollOS/issues"
+Issues = "https://github.com/Mishra1007/TrollOS/issues"
 
 [project.scripts]
 trollos = "trollos.app:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
