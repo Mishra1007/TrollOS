@@ -11,13 +11,18 @@ license = { text = "MIT" }
 requires-python = ">=3.10"
 
 authors = [
-    {name = "Harsh"}
+    { name = "Saurabh Mishra" }
 ]
 
 dependencies = [
     "textual>=0.50",
     "rich>=13.7.1"
 ]
+
+[project.urls]
+Homepage = "https://github.com/Mishra1007/TrollOS"
+Source = "https://github.com/Mishra1007/TrollOS"
+Tracker = "https://github.com/Mishra1007/TrollOS/issues"
 
 [project.scripts]
 trollos = "trollos.app:main"
