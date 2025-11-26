@@ -68,14 +68,16 @@ ollama pull llama3
 
 (Recommended: 8B size)
 
-4️⃣ Clone This Repository
-git clone https://github.com/MISHRA1007/TrollOS.git
-cd TrollOS
+4️⃣In Terminal :
+
+pip install trollos
+
 
 5️⃣ Install Python Dependencies
 pip install -r requirements.txt
 
-▶️ Running TrollOS
+
+▶️ trollos
 
 In the project folder:
 
